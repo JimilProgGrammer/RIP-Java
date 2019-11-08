@@ -3,7 +3,7 @@
 
 
 ## Group Members:
-1. Sujoy Barua (20182300)
+1. Sujoy Barua (2018230067)
 2. Manan Doshi (2018230069)
 3. Siddhesh Kamble (2018230072)
 4. Jayram Nandagiri (2018230073)
